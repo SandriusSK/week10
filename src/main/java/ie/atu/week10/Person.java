@@ -43,7 +43,7 @@ public class Person {
         return
                 "name='" + name + '\'' +
                 ", address='" + address + '\'' +
-                ", telephone='" + telephone + '\'' +
+                ", telephone='" + telephone + '\''
                 ;
     }
 }

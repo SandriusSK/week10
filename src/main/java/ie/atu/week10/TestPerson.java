@@ -9,7 +9,7 @@ public class TestPerson {
 
         System.out.println("Here are sandrius's details" + sandrius.getName());
         // Test Customer
-        Customer myCust = new Customer("Sandrius","ATU", 0870000001, "abc", true);
+        Customer myCust = new Customer("Sandrius","ATU", "0870000001", "abc", true);
 
         System.out.println("Details: " + myCust.toString());
 
